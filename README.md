@@ -26,4 +26,4 @@ Create an app that simulates a roll of a dice, the roll must be done by means of
 Between each launch, the faces must be changed randomly, taking into account that the number or face that is going to be shown is the upper face.
 
 ### Solution:
-![DiceRollerApp](https://user-images.githubusercontent.com/109309420/203224134-3960ee01-d98d-4d06-a2fc-6f6afc5dfce7.gif)
+<img src="https://user-images.githubusercontent.com/109309420/203224134-3960ee01-d98d-4d06-a2fc-6f6afc5dfce7.gif" width="20%" height="20%">
